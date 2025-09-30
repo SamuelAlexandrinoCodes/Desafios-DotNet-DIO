@@ -14,11 +14,11 @@ Este repositório contém as soluções para os desafios de código e projetos q
 1. Entre na pasta do projeto:
    ```bash
    cd AgendamentoDeTarefasEntityFramework/AgendaTarefas
-2. Execute
+2. Execute:
     dotnet run
-3. Acesse no Navegador
+3. Acesse no Navegador:
     http://localhost:5157/swagger
-4. Exemplo de JSON para POST
+4. Exemplo de JSON para POST:
     {
     "titulo": "Estudar Entity Framework",
     "descricao": "Revisar conceitos de DbContext e Migrations",
