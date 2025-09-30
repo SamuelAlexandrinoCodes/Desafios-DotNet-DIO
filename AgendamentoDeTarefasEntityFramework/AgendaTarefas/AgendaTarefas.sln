@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaTarefas", "AgendaTarefas.csproj", "{12F3C52A-7821-C950-F7D9-2EFA12BF98AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12F3C52A-7821-C950-F7D9-2EFA12BF98AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F3C52A-7821-C950-F7D9-2EFA12BF98AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F3C52A-7821-C950-F7D9-2EFA12BF98AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F3C52A-7821-C950-F7D9-2EFA12BF98AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A82F1B1-41EE-4AB1-8B61-841E166BB942}
+	EndGlobalSection
+EndGlobal
