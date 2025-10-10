@@ -1,0 +1,42 @@
+# Normalização de finais de linha (EOL)
+* text=auto
+
+# Scripts sempre com LF (útil em containers Linux)
+*.sh text eol=lf
+
+# Arquivos de Windows sempre com CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+# Arquivos de código .NET com diff amigável
+*.cs diff=csharp
+*.sln merge=union
+*.csproj merge=union
+*.vbproj merge=union
+*.fsproj merge=union
+
+# Arquivos de front-end tratados como texto
+*.js text
+*.jsx text
+*.ts text
+*.tsx text
+*.css text
+*.html text
+*.json text
+*.md text
+*.yml text
+*.yaml text
+
+# Arquivos binários (não gerar diff)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.exe binary
+*.dll binary
+*.mp4 binary
+*.mp3 binary
