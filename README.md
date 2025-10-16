@@ -47,7 +47,7 @@ Estes são os projetos mais completos, demonstrando o desenvolvimento de ponta a
 * **[Blog com Next.js & Supabase](./5-Fullstack/blog-next-supabase/)**: Uma aplicação de blog fullstack completa construída com Next.js App Router. Apresenta Renderização no Servidor (SSR), Server Actions e um backend seguro com Supabase (BD PostgreSQL + Auth com Row Level Security).
 
 * **[API de Gerenciamento de Veículos](./1-Backend/vehicle-management-api/)**: Uma API REST completa construída com ASP.NET Core Minimal APIs, com suíte de testes (xUnit), autenticação JWT, autorização por papéis, containerização com Docker e deploy no Render.
-https://gerenciador-de-veiculos.onrender.com/swagger/index.html
+* https://gerenciador-de-veiculos.onrender.com/swagger/index.html
 
 ### 🗂️ Categorias de Projetos
 
